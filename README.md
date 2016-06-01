@@ -6,4 +6,4 @@ This is a test to expand my skills with repo transferrence
 
 ## Needs some more content here
 
-Hello World:x
+Hello World
